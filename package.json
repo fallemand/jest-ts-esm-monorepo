@@ -1,0 +1,13 @@
+{
+  "name": "jest-ts-esm-monorepo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@tsconfig/node20": "^20.1.4",
+    "typescript": "^5.5.4"
+  }
+}
